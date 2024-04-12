@@ -10,6 +10,10 @@ export default {
       screens: {
         'xs': '300px',
       },
+      colors: {
+        'lingua-korea-blue': '#060644',
+        'lingua-korea-red': '#EF3A5D',
+      }
     },
   },
   plugins: [],
